@@ -11,6 +11,8 @@ MLPDA22 project
 	
 /PPT: 展示PPT
 
+/Report: 项目报告
+
 数据集原网址：https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring
 
 使用方法：下载数据集后将PAMAP2_Dataset.zip解压到/Codes文件夹下，使用Anaconda运行对应的.ipynb文件即可
