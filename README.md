@@ -1,4 +1,4 @@
-# Human-Activity-Classification
+# Human Activity Classification
 PKU MLPDA22 project
 
 代码使用基于Jupyter Notebook的Python3编写
