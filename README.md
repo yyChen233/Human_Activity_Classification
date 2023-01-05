@@ -1,5 +1,5 @@
 # Human Activity Classification
-PKU MLPDA22 course project
+PKU MLPDA22 机器学习在数据分析预测中的应用 course project
 
 代码使用基于Jupyter Notebook的Python3编写
 
