@@ -1,5 +1,7 @@
 # Human Activity Classification
-PKU MLPDA2022 机器学习在数据分析预测中的应用 course project
+PKU MLPDA2022 机器学习在数据分析预测中的应用 Course Project
+
+人类行为分类：通过三位传感器的传感数据对被试者正在做出的行为学习分类
 
 代码使用基于Jupyter Notebook的Python3编写
 
